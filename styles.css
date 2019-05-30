@@ -43,11 +43,31 @@ footer {
   color: #d5d5d5;
 }
 
+.col-sm-8{
+  width:400px;
+  height:600px;
+}
 
 
 
+#AboutP{
+  margin-top: 50px;
+  margin-left: 20px;
+  font-size: 25px;
+  font-family: 'Poppins', sans-serif;
+}
 
+ h1{
+   margin-left: 20px;
+ }
 
+#foot{
+  margin-top:400px;
+}
+
+#self{
+  padding: 35px;
+}
 
 
 
