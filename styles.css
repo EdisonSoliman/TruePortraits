@@ -8,8 +8,9 @@ html, body {
 }
 
 .nav-link {
-  font-size: 1.1em !important;
-  height: 225px;
+  font-size: 1.4em !important;
+  margin: auto;
+  
 }
 
 .navbar-header {
@@ -20,9 +21,9 @@ html, body {
 }
 
 .carousel {
+  margin: auto;
   width: 800px;
   height: 800px;
-  margin-left: 300px;
 }
 
 .carousel-inner img{
