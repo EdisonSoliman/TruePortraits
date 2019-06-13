@@ -63,6 +63,13 @@ footer {
 }
 
 /*Gallery & Samples*/
+#intro{
+  font-size: 30px;
+  font-family: serif;
+  font-style: italic;
+  text-align: center;
+}
+
 .row {
     display: flex;
     flex-wrap: wrap;
